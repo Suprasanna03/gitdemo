@@ -5,6 +5,7 @@ function Rootlayout() {
     <div>
       Rootlayout
     </div>
+    <div>Rootlayout</div>
   )
 }
 
