@@ -6,5 +6,4 @@ function Rootlayout() {
       Rootlayout
     </div>)
 }
-
 export default Rootlayout
