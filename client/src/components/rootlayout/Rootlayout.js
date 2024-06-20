@@ -3,7 +3,7 @@ import React from 'react'
 function Rootlayout() {
   return (
     <div>
-      <Root/>
+      Rootlayout
     </div>
   )
 }
