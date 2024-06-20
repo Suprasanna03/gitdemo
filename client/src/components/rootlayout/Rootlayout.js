@@ -4,9 +4,7 @@ function Rootlayout() {
   return (
     <div>
       Rootlayout
-    </div>
-    <div>Rootlayout</div>
-  )
+    </div>)
 }
 
 export default Rootlayout
